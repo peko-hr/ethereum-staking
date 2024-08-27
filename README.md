@@ -6,4 +6,4 @@
 [構築手順](./node)
 
 ## validator
-[構築手順](https://github.com/peko-hr/ethereum-validator/blob/main/README.md)
+[構築手順](https://github.com/peko-hr/ethereum-validator-prysm/blob/main/README.md)
