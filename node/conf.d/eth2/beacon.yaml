@@ -40,8 +40,9 @@ http-mev-relay: http://mev:18550
 
 block-batch-limit: 512
 
-#checkpoint-sync-url: https://holesky.beaconstate.ethstaker.cc
 checkpoint-sync-url: https://beaconstate.ethstaker.cc
+#checkpoint-sync-url: https://holesky.beaconstate.ethstaker.cc
+#checkpoint-sync-url: https://checkpoint-sync.hoodi.ethpandaops.io
 
 #############################
 suggested-fee-recipient: 0xBa04822fff3660F3247dAe77ec787649cD134Db8
