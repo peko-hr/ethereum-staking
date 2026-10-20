@@ -46,6 +46,7 @@ services:
       - "8080:8080" # for metrics, change port.
       - "12000:12000/udp"
       - "13000:13000"
+      - "13000:13000/udp"
     env_file:
       - '.node.env'
     restart: always
